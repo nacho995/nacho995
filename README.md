@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nacho995/nacho995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://presentation-svg.onrender.com/?lines=Hola,%20soy%20Nacho;Full%20Stack%20Developer;Siempre%20aprendiendo&color=%23DC00FF&size=30" alt="Presentación animada">
+</a>
+
+</p>
 
 Here are some ideas to get you started:
 
