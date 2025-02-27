@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Nacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
