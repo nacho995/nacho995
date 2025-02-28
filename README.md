@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
 <a href="https://github.com/nacho995/presentation-svg">
-  <img src="https://presentation-svg.onrender.com/?lines=Hola,%20soy%20Nacho;Full%20Stack%20Developer;Siempre%20aprendiendo&color=%23DC00FF&size=30" alt="Presentación animada">
+  <img src="https://presentation-svg.onrender.com/?font=Oswald&lines=Hi,%20I%27m%20Nacho;Junior%20programmer;Full%20Stack%20Developer;Always%20learning" alt="Presentación animada">
 </a>
 
 </p>
