@@ -12,7 +12,7 @@
 <br>
 
 # <picture><img src = "https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/time%20scroll.gif" width = 150px> About Me</picture> 
-<picture> <img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width = 350px></picture>
 
 <br><br>
 
