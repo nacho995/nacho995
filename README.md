@@ -11,7 +11,7 @@
 
 <br>
 
-
+<picture><img src = "https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/time%20scroll.gif" width = 50px> About Me</picture> 
 
 Here are some ideas to get you started:
 
