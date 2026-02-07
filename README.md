@@ -19,7 +19,7 @@
 - 🧑🏻‍🏫 He estudiado un grado medio de [Sistema Microinformáticos y Redes](https://www.ifp.es/fp-online/sistemas-microinformaticos-y-redes)
 - Soy un `programador junior` que se dedica al desarrollo web.
 - 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre desarrollo de software`.
-- 🖥️ Dispongo de `conocimientos básicos sobre Javascript`.
+- 🖥️ Dispongo de `conocimientos sobre Javascript, C, C++, .NET y Python`.
 - 🧑🏻‍🎓 He realizado un máster de Full-Stack Development en [Nuclio Digital School](https://nuclio.school/master-full-stack-developer/)).
 - 💭 Estoy buscando una `oportunidad de trabajo`, aquí puedes visitar [mi perfil de Linkedin](www.linkedin.com/in/ignacio-dalesio-lopez).
 - 👯 Busco colaborar con diferentes profesionales del sector
