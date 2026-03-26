@@ -1,94 +1,91 @@
-## Hi there 👋
-
-<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Hola , mi nombre es Nacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-<p align="center">
-<a href="https://github.com/nacho995/presentation-svg">
-  <img src="https://presentation-svg.onrender.com/?font=Oswald&lines=Hi,%20I%27m%20Nacho;Junior%20programmer;Full%20Stack%20Developer;Always%20learning&height=320&color=%23A054E7&marginTop=-55" alt="Presentación animada">
-</a>
-</p>
-
-<br>
-
-# <picture><img src = "https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/time%20scroll.gif" width = 150px> About Me</picture> 
-<picture> <img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width = 350px></picture>
-
-<br><br>
-
-- 🧑🏻‍🏫 He estudiado un grado medio de [Sistema Microinformáticos y Redes](https://www.ifp.es/fp-online/sistemas-microinformaticos-y-redes)
-- Soy un `programador junior` que se dedica al desarrollo web.
-- 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre desarrollo de software`.
-- 🖥️ Dispongo de `conocimientos sobre Javascript, C, C++, .NET y Python`.
-- 🧑🏻‍🎓 He realizado un máster de Full-Stack Development en [Nuclio Digital School](https://nuclio.school/master-full-stack-developer/)).
-- 💭 Estoy buscando una `oportunidad de trabajo`, aquí puedes visitar [mi perfil de Linkedin](www.linkedin.com/in/ignacio-dalesio-lopez).
-- 👯 Busco colaborar con diferentes profesionales del sector
-<br>
-
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Programming Languages</h2>
-
-<p align="center">
-  &emsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+ <h1 align="center">Ignacio Dalesio</h1>                                                                                                                                
+ <h3 align="center">Backend Developer | .NET &middot; Java &middot; Distributed Systems &middot; Cybersecurity</h3>                                                     
+                                                                                                                                                                        
+ <p align="center">                                                                                                                                                     
+   <a href="https://www.linkedin.com/in/ignacio-dalesio-lopez/">                                                                                                        
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>                                                  
    </a>
-</p>
-
-<picture>
-    <img align="right" alt="Coding" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif">
-</picture>
-
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development</h2>
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   <a href="mailto:ignaciodalesio1995@gmail.com">
+     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
    </a>
-</p>
+   <a href="https://portfolio-web-119j.onrender.com/">
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+   </a>
+ </p>
 
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>Software & Tools</h2>
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" width="50"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="75"></a>
-  &emsp;
-   <a href="#"><img src="https://img.shields.io/badge/discord-738ADA.svg?&style=plastic&logo=discord&logoColor=white" width="75"/></a>
-</p>
+ ---
 
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture>IDEs</h2>
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" width="125"></a>
+ Backend developer based in Madrid, building distributed systems and microservices in production. Focused on event-driven architecture, real-time processing, and
+ cybersecurity.
 
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Operative Systems</h2>
- 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 12px;" /></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/ubuntu-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="border-radius: 12px;" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" width="120" style="border-radius: 12px;" /></a>
-</p>
+ ### Tech Stack
 
-<h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
+ **Backend**
 
-<br />
+ ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+ ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<p align="center">
-	<a href="https://github.com/nacho995"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="85" alt="GitHub"/></a>
-	&emsp;
-	<a href="www.linkedin.com/in/ignacio-dalesio-lopez"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="75" alt="LinkedIn"/></a>
-</p>
+ **Messaging & Real-Time**
+
+ ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+ ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+ ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+ **Frontend**
+
+ ![Angular](https://img.shields.io/badge/Angular_17+-DD0031?style=flat&logo=angular&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+ ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+ **Databases**
+
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+ ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+ **DevOps & Cloud**
+
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+ ![Fly.io](https://img.shields.io/badge/Fly.io-7B36ED?style=flat&logo=flydotio&logoColor=white)
+ ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+ ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+ ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+ **Tools**
+
+ ![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white)
+ ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+ ---
+
+ ### Featured Projects
+
+ | Project | Stack | Description |
+ |---------|-------|-------------|
+ | [**ShadowSOC**](https://github.com/nacho995/ShadowSOC) | C#, ASP.NET Core, Angular, Kafka, RabbitMQ, SignalR, Docker | Real-time SOC dashboard visualizing cyber
+ attacks on a world map. Event-driven microservices with 7 Docker containers |
+ | [**Cortex**](https://github.com/nacho995/cortex) | Java 21, PicoCLI, Python/FastAPI, Groq/Claude/Gemini, Stripe | Multi-agent AI CLI for architecture decisions.
+ SaaS billing, multi-model routing, SSE streaming |
+ | [**Cortex-IDE**](https://github.com/nacho995/cortex-ide) | Angular 17+, Java 21 Spring Boot, Electron, Monaco Editor | Open-source AI-powered desktop IDE.
+ WebSocket, LSP proxy, Tree-sitter, multi-agent system |
+ | [**Lorekeeper**](https://github.com/nacho995/lorekeeper) | .NET 8, React, FastAPI, PostgreSQL, Fly.io, YARP | Microservices platform deployed in production. API
+ gateway, AI service, Clean Architecture |
+ | [**JobBoard AI**](https://github.com/nacho995/JOBAI) | Java 21, Spring Boot, Angular, FastAPI, PostgreSQL | AI job board with hexagonal architecture. Multi-source
+ aggregation (300+ jobs), Groq recommendations |
+
+ ---
+
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=nacho995&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacho995&layout=compact&theme=default&hide_border=true&langs_count=8" height="165"/>
+ </p>
